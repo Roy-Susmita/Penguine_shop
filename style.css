@@ -1,0 +1,38 @@
+.body{
+    font-family: 'Bebas Neue', cursive;
+}
+.penguin-fashion-header {
+  background-color: #fffbf0;
+}
+.penguin-fashion-button{
+    background-image: linear-gradient(#a4bc46, #85a019);
+    color: white;
+}
+.jacket-image{
+    border: none;
+}
+.jacket-image img{
+    background-color: #f1f1f1;
+    width: 400px;
+    height: 350px;
+    padding: 1rem;
+    
+}
+.jacket-text{
+    border: none;
+    background-color: white;
+}
+.about a{
+    text-decoration: none;
+    font-weight: bold;
+    color:black;
+}
+.about img{
+    width: 45%;
+
+}
+.extra-button{
+    margin-top: 10px;
+    background-image: linear-gradient(#a4bc46, #85a019);
+    color: white;
+}
